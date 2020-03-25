@@ -111,4 +111,5 @@ function win(player) {
     checkWiner(player, 3,6,9);
     checkWiner(player, 1,5,9);
     checkWiner(player, 3,5,7);
+
 }
